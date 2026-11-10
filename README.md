@@ -132,3 +132,4 @@ QuanLyBanHangThueVN/
 
 ## 📄 Bản quyền
 Dự án được xây dựng với mục đích học tập và làm đồ án / demo giải pháp quản lý bán hàng kết hợp tính thuế tại Việt Nam.
+
